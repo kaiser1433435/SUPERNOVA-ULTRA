@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "author": "KAISER!",
+    "version": "0.0.1",
+    "name": "SUPERNOVA ULTRA",
+    "transparency_mode": 3,
+    "license": "AE"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/kaiser1433435/supernova-wallpaper/refs/heads/main/supernova%20wallpaper.png",
+    "overlay_alpha": 160,
+    "blur_radius": 0
+  },
+  "simple_colors": {
+    "accent": -3571729,
+    "mention_highlight": 1942585327,
+    "active_channel": -6600775
+  },
+  "colors": {
+    "link": -3571729
+  },
+  "drawable_tints": {
+    "ic_status_idle_16dp": -1656835,
+    "ic_status_online_16dp": -3993657,
+    "ic_status_dnd_16dp": -10472851
+  }
+}
