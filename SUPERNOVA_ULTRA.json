@@ -10,7 +10,23 @@
   "background": {
     "url": "https://raw.githubusercontent.com/kaiser1433435/supernova-wallpaper/refs/heads/main/supernova%20wallpaper.png",
     "overlay_alpha": 160,
-    "blur_radius": 0
+    "blur_radius": 0,
+    "portain": {
+      "front": {
+        "size": "cover",
+        "position": "left center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      }
+    }
   },
   "simple_colors": {
     "accent": -3571729,
