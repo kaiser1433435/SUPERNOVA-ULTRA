@@ -4,7 +4,8 @@
     "version": "0.0.1",
     "name": "SUPERNOVA ULTRA",
     "transparency_mode": 3,
-    "license": "AE"
+    "license": "AE",
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/SUPERNOVA-ULTRA/refs/heads/main/SUPERNOVA_ULTRA.json"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/kaiser1433435/supernova-wallpaper/refs/heads/main/supernova%20wallpaper.png",
